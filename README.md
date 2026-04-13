@@ -1,5 +1,7 @@
 # Deskgram 2 批量订阅
 
+![Join Groups Main](assets/screenshots/join-groups__main__zh.png)
+
 批量订阅是 Deskgram 2 中用于批量加入 Telegram 频道、群组和文件夹的模块。它把链接分发、账号分配、限额、延迟和执行控制放进一个集中流程中。
 
 [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
@@ -28,6 +30,24 @@
 2. 配置账号分配、限额和延迟。
 3. 启动流程并观察执行结果。
 4. 将完成订阅的账号继续用于其他模块。
+
+## 界面亮点
+
+### 主界面
+
+![Join Groups Main Screen](assets/screenshots/join-groups__main__zh.png)
+
+### 统计信息
+
+![Join Groups Stats](assets/screenshots/join-groups__stats__zh.png)
+
+### 主要设置
+
+![Join Groups Settings](assets/screenshots/join-groups__main-settings__zh.png)
+
+### 订阅选项
+
+![Join Groups Options](assets/screenshots/join-groups__subscription-options__zh.png)
 
 ## 适合在什么情况下使用
 
