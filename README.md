@@ -31,6 +31,14 @@
 3. 启动流程并观察执行结果。
 4. 将完成订阅的账号继续用于其他模块。
 
+## 建议一起使用的模块
+
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)，如果账号网格还没有整理好。
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)，如果订阅流程依赖稳定代理池。
+- [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)，如果后续要从加入的环境里收集用户。
+- [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果订阅只是后续触达前的准备步骤。
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果基础环境准备好之后要继续做增长。
+
 ## 界面亮点
 
 ### 主界面
@@ -70,6 +78,9 @@
 - [Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh)
 - [受众收集](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-zh)
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)
+- [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
+- [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
+- [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
 
 ## FAQ
 
