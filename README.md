@@ -39,6 +39,12 @@
 - [私信群发](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-zh)，如果订阅只是后续触达前的准备步骤。
 - [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)，如果基础环境准备好之后要继续做增长。
 
+## 这条基础设施路径常见的下游方向
+
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)，如果你想把订阅和下一步执行放进统一控制层。
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)，如果订阅后的环境要继续和系统参数保持一致。
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)，如果进入社区之后下一步就是互动和评论活动。
+
 ## 界面亮点
 
 ### 主界面
@@ -81,6 +87,9 @@
 - [账号面板](https://github.com/Deskgram-2/telegram-account-manager-deskgram-zh)
 - [代理管理](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-zh)
 - [邀请模块](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-zh)
+- [任务管理器](https://github.com/Deskgram-2/telegram-task-manager-deskgram-zh)
+- [设置](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-zh)
+- [神经评论](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-zh)
 
 ## FAQ
 
