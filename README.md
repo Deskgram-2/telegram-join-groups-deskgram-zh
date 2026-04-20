@@ -1,15 +1,15 @@
-# Deskgram 2 批量订阅
+﻿# Deskgram 2 批量订阅
 
 ![Join Groups Main](assets/screenshots/join-groups__main__zh.png)
 
 批量订阅是 Deskgram 2 中用于批量加入 Telegram 频道、群组和文件夹的模块。它把链接分发、账号分配、限额、延迟和执行控制放进一个集中流程中。
 
-[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 中文总览](https://github.com/Deskgram-2/deskgram-2-telegram-automation-zh) | [官网](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=cn)
 ## 交互式 Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups&lang=cn)
 
-在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups)
+在浏览器中体验这个模块: [打开 Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fjoin_groups&lang=cn)
 
 如果你想先判断这个模块是否适合当前场景，可以先打开 web preview，在浏览器里看看界面结构，再决定是否继续安装和配置。
 
@@ -137,3 +137,4 @@
 ### 加入完成之后下一步通常是什么？
 
 通常会进入受众收集、私信或互动模块。
+
